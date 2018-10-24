@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/BrianIshii/Statify/Assests/statify_logo.png)
+![Alt Text](https://github.com/BrianIshii/Statify/Assets/statify_logo.png)
 
 ### Statify
 
