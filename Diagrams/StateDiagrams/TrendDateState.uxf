@@ -46,18 +46,6 @@
     <additional_attributes/>
   </element>
   <element>
-    <id>UMLState</id>
-    <coordinates>
-      <x>450</x>
-      <y>220</y>
-      <w>90</w>
-      <h>40</h>
-    </coordinates>
-    <panel_attributes>*Filter trend
-by:</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
     <id>Relation</id>
     <coordinates>
       <x>460</x>
@@ -163,5 +151,16 @@ Clicks "All Time"</panel_attributes>
     <panel_attributes>lt=-&gt;
 User Exits Page</panel_attributes>
     <additional_attributes>10.0;20.0;140.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>420</x>
+      <y>190</y>
+      <w>140</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>*Filter trend by:</panel_attributes>
+    <additional_attributes/>
   </element>
 </diagram>
