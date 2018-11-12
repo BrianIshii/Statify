@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLSpecialState</id>
+    <coordinates>
+      <x>260</x>
+      <y>360</y>
+      <w>20</w>
+      <h>20</h>
+    </coordinates>
+    <panel_attributes>type=initial</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>380</x>
+      <y>350</y>
+      <w>90</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>All time</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>270</x>
+      <y>360</y>
+      <w>130</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;110.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>810</x>
+      <y>350</y>
+      <w>90</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>This month</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>450</x>
+      <y>220</y>
+      <w>90</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>*Filter trend
+by:</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>460</x>
+      <y>340</y>
+      <w>370</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+Clicks "This Month"</panel_attributes>
+    <additional_attributes>10.0;20.0;350.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>460</x>
+      <y>360</y>
+      <w>370</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+Clicks "All Time"</panel_attributes>
+    <additional_attributes>350.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>1210</x>
+      <y>350</y>
+      <w>90</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Selected Time
+Frame</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>890</x>
+      <y>340</y>
+      <w>340</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+Selects Time Frame w/ Calendar : [Data exists]</panel_attributes>
+    <additional_attributes>10.0;20.0;320.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>890</x>
+      <y>360</y>
+      <w>340</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+Clicks "This Month"</panel_attributes>
+    <additional_attributes>320.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>450</x>
+      <y>280</y>
+      <w>790</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+Selects Time Frame w/ Calendar : [Data exists]</panel_attributes>
+    <additional_attributes>10.0;70.0;110.0;20.0;650.0;20.0;770.0;70.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>450</x>
+      <y>380</y>
+      <w>790</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+Clicks "All Time"</panel_attributes>
+    <additional_attributes>770.0;10.0;650.0;60.0;120.0;60.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLSpecialState</id>
+    <coordinates>
+      <x>1410</x>
+      <y>460</y>
+      <w>20</w>
+      <h>20</h>
+    </coordinates>
+    <panel_attributes>type=final</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1270</x>
+      <y>450</y>
+      <w>160</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+User Exits Page</panel_attributes>
+    <additional_attributes>10.0;20.0;140.0;20.0</additional_attributes>
+  </element>
+</diagram>
