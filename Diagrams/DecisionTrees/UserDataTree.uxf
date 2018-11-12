@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>120</x>
+      <y>70</y>
+      <w>400</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+                                                    User Logged On: Load 
+                                                    user Data from Spotify</panel_attributes>
+    <additional_attributes>130.0;80.0;260.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>130</x>
+      <y>140</y>
+      <w>380</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+
+
+
+                                           User not logged on: Load 
+                                           general user Spotify data</panel_attributes>
+    <additional_attributes>120.0;10.0;250.0;70.0</additional_attributes>
+  </element>
+</diagram>
