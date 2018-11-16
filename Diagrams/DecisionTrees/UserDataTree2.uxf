@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>170</x>
+      <y>240</y>
+      <w>470</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+                                                                 User has a most listened 
+                                                                 to genre: Display it first</panel_attributes>
+    <additional_attributes>290.0;10.0;170.0;60.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>150</x>
+      <y>290</y>
+      <w>500</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+                             
+                             
+                             
+                                          User has no most listened 
+                                              to genre: Display most popular genre first
+                             </panel_attributes>
+    <additional_attributes>300.0;60.0;190.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>50</x>
+      <y>200</y>
+      <w>290</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+                
+                
+                
+                
+                User has had Spotify account
+                Over 1 month: enough data 
+                to gather trends</panel_attributes>
+    <additional_attributes>200.0;70.0;80.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>0</x>
+      <y>140</y>
+      <w>390</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+                                                User has had Spotify
+                                           account for under 1 month</panel_attributes>
+    <additional_attributes>250.0;10.0;130.0;70.0</additional_attributes>
+  </element>
+</diagram>

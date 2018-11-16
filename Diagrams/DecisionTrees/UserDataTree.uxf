@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>0</x>
+      <y>140</y>
+      <w>400</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=-
+                                                    User Logged On: Load 
+                                                    user Data from Spotify</panel_attributes>
+    <additional_attributes>130.0;80.0;260.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>10</x>
+      <y>210</y>
+      <w>380</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>lt=-
+
+
+
+                                           User not logged on: Load 
+                                           general user Spotify data</panel_attributes>
+    <additional_attributes>120.0;10.0;250.0;70.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>250</x>
+      <y>70</y>
+      <w>470</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=-
+                                                             User has friends: Generate
+                                                       trends from friends to display
+                                               </panel_attributes>
+    <additional_attributes>150.0;70.0;310.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>260</x>
+      <y>130</y>
+      <w>450</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>lt=-
+
+
+
+                                                    User has no Spotify friends:
+                                                    Just Load trends for this user
+                                                    
+        </panel_attributes>
+    <additional_attributes>140.0;10.0;300.0;70.0</additional_attributes>
+  </element>
+</diagram>
