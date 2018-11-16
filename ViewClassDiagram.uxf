@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>6</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>486</x>
+      <y>384</y>
+      <w>108</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>Song
+--
++Render()
++componentDidMount()</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>684</x>
+      <y>384</y>
+      <w>114</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>Artist
+--
++Render()
++componentDidMount()</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>498</x>
+      <y>522</y>
+      <w>114</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>SongRecommendation
+--
++Render()
++componentDidMount()</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>744</x>
+      <y>522</y>
+      <w>108</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>ArtistRecommendation
+--
++Render()
++componentDidMount()</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>972</x>
+      <y>522</y>
+      <w>108</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>PlaylistRecommendation
+--
++Render()
++componentDidMount()</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>378</x>
+      <y>522</y>
+      <w>102</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>SongTrend
+--
++Render()
++componentDidMount()</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>630</x>
+      <y>522</y>
+      <w>102</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>ArtistTrend
+--
++render()
++componentDidMount()</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>858</x>
+      <y>522</y>
+      <w>108</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>PlaylistTrend
+--
++Render()
++componentDidMount()</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>876</x>
+      <y>384</y>
+      <w>108</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>PlayList
+--
++Render()
++componentDidMount()</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>690</x>
+      <y>78</y>
+      <w>96</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>React.Component
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>732</x>
+      <y>306</y>
+      <w>18</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;130.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>534</x>
+      <y>306</y>
+      <w>216</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;130.0;10.0;80.0;340.0;80.0;340.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>732</x>
+      <y>306</y>
+      <w>192</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <additional_attributes>300.0;130.0;300.0;80.0;10.0;80.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>672</x>
+      <y>240</y>
+      <w>114</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>MusicTile
+--
+#image
+--
++render()
++componentDidMount()</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>732</x>
+      <y>162</y>
+      <w>18</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;130.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>420</x>
+      <y>450</y>
+      <w>144</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>m1=1
+m2=0..*
+lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;120.0;10.0;50.0;200.0;50.0;200.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>534</x>
+      <y>450</y>
+      <w>30</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>m1=1
+m2=0..*
+lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;120.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>672</x>
+      <y>450</y>
+      <w>90</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>m1=1
+m2=0..*
+lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;120.0;10.0;50.0;110.0;50.0;110.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>732</x>
+      <y>450</y>
+      <w>84</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>m1=1
+m2=0..*
+lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>110.0;120.0;110.0;50.0;10.0;50.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>906</x>
+      <y>450</y>
+      <w>30</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>m1=1
+m2=0..*
+lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;120.0;10.0;50.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>906</x>
+      <y>450</y>
+      <w>144</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>m1=1
+m2=0..*
+lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>210.0;120.0;210.0;50.0;10.0;50.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>540</x>
+      <y>162</y>
+      <w>210</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;130.0;10.0;80.0;330.0;80.0;330.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>504</x>
+      <y>240</y>
+      <w>96</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>App
+--
+-data
+--
++fetchData()</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

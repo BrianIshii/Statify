@@ -4,8 +4,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>261</x>
-      <y>441</y>
+      <x>333</x>
+      <y>432</y>
       <w>207</w>
       <h>54</h>
     </coordinates>
@@ -16,8 +16,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>243</x>
-      <y>243</y>
+      <x>315</x>
+      <y>234</y>
       <w>234</w>
       <h>54</h>
     </coordinates>
@@ -28,8 +28,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>675</x>
-      <y>594</y>
+      <x>747</x>
+      <y>585</y>
       <w>180</w>
       <h>54</h>
     </coordinates>
@@ -40,8 +40,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>531</x>
-      <y>603</y>
+      <x>603</x>
+      <y>594</y>
       <w>162</w>
       <h>54</h>
     </coordinates>
@@ -54,8 +54,8 @@ API Endpoints
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>261</x>
-      <y>594</y>
+      <x>333</x>
+      <y>585</y>
       <w>180</w>
       <h>54</h>
     </coordinates>
@@ -66,8 +66,8 @@ API Endpoints
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>432</x>
-      <y>603</y>
+      <x>504</x>
+      <y>594</y>
       <w>117</w>
       <h>45</h>
     </coordinates>
@@ -77,8 +77,8 @@ API Endpoints
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>450</x>
-      <y>252</y>
+      <x>522</x>
+      <y>243</y>
       <w>162</w>
       <h>72</h>
     </coordinates>
@@ -92,8 +92,8 @@ API Endpoints
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>351</x>
-      <y>387</y>
+      <x>423</x>
+      <y>378</y>
       <w>108</w>
       <h>81</h>
     </coordinates>
@@ -108,8 +108,8 @@ API Endpoints
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>342</x>
-      <y>288</y>
+      <x>414</x>
+      <y>279</y>
       <w>45</w>
       <h>126</h>
     </coordinates>
@@ -119,8 +119,8 @@ API Endpoints
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>333</x>
-      <y>549</y>
+      <x>405</x>
+      <y>540</y>
       <w>117</w>
       <h>63</h>
     </coordinates>
@@ -133,8 +133,8 @@ API Endpoints
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>207</x>
-      <y>180</y>
+      <x>279</x>
+      <y>171</y>
       <w>486</w>
       <h>342</h>
     </coordinates>
@@ -145,8 +145,8 @@ Server</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>324</x>
-      <y>513</y>
+      <x>396</x>
+      <y>504</y>
       <w>45</w>
       <h>54</h>
     </coordinates>
@@ -156,20 +156,8 @@ Server</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>765</x>
-      <y>261</y>
-      <w>243</w>
-      <h>189</h>
-    </coordinates>
-    <panel_attributes>symbol=component
-Client</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLGeneric</id>
-    <coordinates>
-      <x>657</x>
-      <y>549</y>
+      <x>729</x>
+      <y>540</y>
       <w>216</w>
       <h>117</h>
     </coordinates>
@@ -181,19 +169,8 @@ Client</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>675</x>
-      <y>342</y>
-      <w>108</w>
-      <h>27</h>
-    </coordinates>
-    <panel_attributes>lt=[]-[SQL]</panel_attributes>
-    <additional_attributes>100.0;10.0;20.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>576</x>
-      <y>252</y>
+      <x>648</x>
+      <y>243</y>
       <w>99</w>
       <h>117</h>
     </coordinates>
@@ -203,8 +180,8 @@ Client</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>360</x>
-      <y>342</y>
+      <x>432</x>
+      <y>333</y>
       <w>351</w>
       <h>90</h>
     </coordinates>
@@ -214,24 +191,36 @@ Client</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>801</x>
-      <y>297</y>
-      <w>180</w>
-      <h>126</h>
+      <x>891</x>
+      <y>171</y>
+      <w>288</w>
+      <h>342</h>
     </coordinates>
     <panel_attributes>symbol=component
-:GUI</panel_attributes>
+Client</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>765</x>
-      <y>342</y>
-      <w>54</w>
+      <x>747</x>
+      <y>333</y>
+      <w>162</w>
       <h>27</h>
     </coordinates>
-    <panel_attributes>lt=-</panel_attributes>
-    <additional_attributes>10.0;10.0;40.0;10.0</additional_attributes>
+    <panel_attributes>lt=[]-[SQL]</panel_attributes>
+    <additional_attributes>160.0;10.0;20.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>954</x>
+      <y>279</y>
+      <w>162</w>
+      <h>144</h>
+    </coordinates>
+    <panel_attributes>symbol=component
+:UI</panel_attributes>
+    <additional_attributes/>
   </element>
 </diagram>
