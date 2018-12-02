@@ -378,10 +378,9 @@ test()</panel_attributes>
       <w>96</w>
       <h>78</h>
     </coordinates>
-    <panel_attributes>RecommendationStrategy
+    <panel_attributes>TrendStrategy
 --
-train()
-test()</panel_attributes>
+findTrend()</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
