@@ -7,3 +7,10 @@ class Song:
 
     def __str__(self) -> str:
         return self.title + " " + self.artist.getName()
+
+    def get_title(self):
+        pass
+
+    def get_artist(self):
+        pass
+
