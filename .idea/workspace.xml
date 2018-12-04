@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fed450d0-2e53-4576-af60-3015f7fc7773" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statify/src/BigData/ArtistTrendStrategy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statify/src/BigData/Recommendation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statify/src/BigData/RecommendationStategyKNNClassifier.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statify/src/BigData/RecommendationStategyKNNRegression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statify/src/BigData/SongTrendStrategy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statify/src/BigData/Trend.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statify/src/BigData/TrendStrategy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statify/src/BigData/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statify/src/DatabaseAccess/DatabaseParser.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statify/src/DatabaseAccess/History.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statify/src/DatabaseAccess/Search.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statify/src/DatabaseAccess/SpotifyApiParser.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statify/src/DatabaseAccess/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statify/src/StatifyLogic/Artist.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statify/src/StatifyLogic/Playlist.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statify/src/StatifyLogic/Song.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statify/src/StatifyLogic/User.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statify/src/StatifyLogic/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statify/src/__init__.py" beforeDir="false" />
-    </list>
+    <list default="true" id="fed450d0-2e53-4576-af60-3015f7fc7773" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +10,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Statify/frontend/MusicTile.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -54,8 +33,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Statify/frontend/Artist.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Statify/frontend/Playlist.jsx">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -129,6 +117,7 @@
         <option value="$PROJECT_DIR$/Statify/frontend/Navitation.jsx" />
         <option value="$PROJECT_DIR$/Statify/frontend/MusicTile.jsx" />
         <option value="$PROJECT_DIR$/Statify/frontend/Song.jsx" />
+        <option value="$PROJECT_DIR$/Statify/frontend/Artist.jsx" />
       </list>
     </option>
   </component>
@@ -158,12 +147,6 @@
               <item name="Statify" type="b2602c69:ProjectViewProjectNode" />
               <item name="Statify" type="462c0819:PsiDirectoryNode" />
               <item name="Statify" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Statify" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Statify" type="462c0819:PsiDirectoryNode" />
-              <item name="Statify" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -356,13 +339,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Statify/frontend/MusicTile.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/brian.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -373,8 +349,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Statify/frontend/Artist.jsx">
+    <entry file="file://$PROJECT_DIR$/Statify/frontend/Playlist.jsx">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statify/frontend/Artist.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statify/frontend/MusicTile.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
