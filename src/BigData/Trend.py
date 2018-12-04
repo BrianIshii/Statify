@@ -1,8 +1,8 @@
-#Trend.py
+#BigData.py
 
 class Trend:
     def __init__(self, strategy):
         self.strategy = strategy
 
     def findTrend(self, songs):
-        return self.strategy.findTrend()
+        return self.strategy.findTrend(songs)

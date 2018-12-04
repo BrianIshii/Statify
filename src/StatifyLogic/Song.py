@@ -1,5 +1,4 @@
-#Song.py
-
+# Song.py
 
 class Song:
     def __init__(self, title, artist):
@@ -8,4 +7,3 @@ class Song:
 
     def __str__(self) -> str:
         return self.title + " " + self.artist.getName()
-
