@@ -116,3 +116,6 @@ dmypy.json
 
 # Ignore vim swap files
 .*.sw?
+
+# Ignore .idea files
+.idea
