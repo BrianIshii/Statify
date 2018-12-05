@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fed450d0-2e53-4576-af60-3015f7fc7773" name="Default Changelist" comment="" />
+    <list default="true" id="fed450d0-2e53-4576-af60-3015f7fc7773" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Diagrams/Class Diagrams/ClassDiagramPackages.png" beforeDir="false" afterPath="$PROJECT_DIR$/Diagrams/Class Diagrams/ClassDiagramPackages.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Diagrams/Class Diagrams/ClassDiagramPackages.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/Diagrams/Class Diagrams/ClassDiagramPackages.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Statify/backend/StatifyLogic/User.py" beforeDir="false" afterPath="$PROJECT_DIR$/Statify/backend/StatifyLogic/User.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,57 +14,76 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Statify/backend/StatifyLogic/UserID.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Statify/backend/DatabaseAccess/Queries.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Statify/backend/DatabaseAccess/SpotifyApiQueries.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Statify/backend/DatabaseAccess/DatabaseQueries.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Statify/backend/DatabaseAccess/DatabaseParser.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Statify/backend/DatabaseAccess/History.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Statify/backend/DatabaseAccess/Parser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Statify/backend/DatabaseAccess/SpotifyApiParser.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Statify/backend/DatabaseAccess/Search.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Statify/frontend/MusicTile.jsx">
+        <entry file="file://$PROJECT_DIR$/Statify/backend/StatifyLogic/User.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/brian.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Statify/frontend/Song.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Statify/frontend/Artist.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Statify/frontend/Playlist.jsx">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Statify/frontend/App.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Statify/frontend/Navitation.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="330">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -118,14 +141,20 @@
         <option value="$PROJECT_DIR$/Statify/frontend/MusicTile.jsx" />
         <option value="$PROJECT_DIR$/Statify/frontend/Song.jsx" />
         <option value="$PROJECT_DIR$/Statify/frontend/Artist.jsx" />
+        <option value="$PROJECT_DIR$/Statify/backend/StatifyLogic/UserID.py" />
+        <option value="$PROJECT_DIR$/Statify/backend/StatifyLogic/User.py" />
+        <option value="$PROJECT_DIR$/Statify/backend/DatabaseAccess/Queries.py" />
+        <option value="$PROJECT_DIR$/Statify/backend/DatabaseAccess/SpotifyApiQueries.py" />
+        <option value="$PROJECT_DIR$/Statify/backend/DatabaseAccess/DatabaseQueries.py" />
+        <option value="$PROJECT_DIR$/Statify/backend/DatabaseAccess/Parser.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="318" />
-    <option name="y" value="-1417" />
+    <option name="y" value="23" />
     <option name="width" value="1147" />
-    <option name="height" value="1417" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -135,7 +164,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,26 +176,72 @@
               <item name="Statify" type="462c0819:PsiDirectoryNode" />
               <item name="Statify" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Statify" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Statify" type="462c0819:PsiDirectoryNode" />
+              <item name="Statify" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Statify" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Statify" type="462c0819:PsiDirectoryNode" />
+              <item name="Statify" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="BigData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Statify" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Statify" type="462c0819:PsiDirectoryNode" />
+              <item name="Statify" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="DatabaseAccess" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Statify" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Statify" type="462c0819:PsiDirectoryNode" />
+              <item name="Statify" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="StatifyLogic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Statify" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Statify" type="462c0819:PsiDirectoryNode" />
+              <item name="Statify" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Statify" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Statify" type="462c0819:PsiDirectoryNode" />
+              <item name="statifyapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Statify" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Statify" type="462c0819:PsiDirectoryNode" />
+              <item name="statifyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Statify/frontend" />
-      <recent name="$PROJECT_DIR$/src/BigData" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/DatabaseAccess" />
       <recent name="$PROJECT_DIR$/src/Trend" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/Model" />
       <recent name="$PROJECT_DIR$/src/DataParser" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Statify/backend/DatabaseAccess" />
+      <recent name="$PROJECT_DIR$/Statify/frontend" />
+      <recent name="$PROJECT_DIR$/src/BigData" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -196,7 +270,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="318" y="-1417" width="1147" height="1417" extended-state="0" />
+    <frame x="318" y="23" width="1147" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21492007" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -221,109 +296,48 @@
     <entry file="file://$PROJECT_DIR$/shannon.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BigData/RecommendationStategyKNNRegression.py">
+    <entry file="file://$PROJECT_DIR$/src/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/src/BigData/RecommendationStategyKNNRegression.py" />
+    <entry file="file://$PROJECT_DIR$/src/BigData/SongTrendStrategy.py" />
+    <entry file="file://$PROJECT_DIR$/src/BigData/TrendStrategy.py" />
+    <entry file="file://$PROJECT_DIR$/src/DatabaseAccess/Search.py" />
+    <entry file="file://$PROJECT_DIR$/src/DatabaseAccess/SpotifyApiParser.py" />
+    <entry file="file://$PROJECT_DIR$/src/DatabaseAccess/History.py" />
+    <entry file="file://$PROJECT_DIR$/src/StatifyLogic/User.py" />
+    <entry file="file://$PROJECT_DIR$/src/StatifyLogic/Song.py" />
+    <entry file="file://$PROJECT_DIR$/src/StatifyLogic/Artist.py" />
+    <entry file="file://$PROJECT_DIR$/src/StatifyLogic/Playlist.py" />
+    <entry file="file://$PROJECT_DIR$/src/BigData/ArtistTrendStrategy.py" />
+    <entry file="file://$PROJECT_DIR$/src/BigData/Trend.py" />
+    <entry file="file://$PROJECT_DIR$/src/BigData/Recommendation.py" />
+    <entry file="file://$PROJECT_DIR$/src/BigData/RecommendationStategyKNNClassifier.py" />
+    <entry file="file://$PROJECT_DIR$/src/DatabaseAccess/DatabaseParser.py" />
+    <entry file="file://$PROJECT_DIR$/Statify/frontend/MusicTile.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BigData/SongTrendStrategy.py">
+    <entry file="file://$PROJECT_DIR$/brian.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statify/frontend/Song.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statify/frontend/Artist.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BigData/TrendStrategy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DatabaseAccess/Search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DatabaseAccess/SpotifyApiParser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DatabaseAccess/History.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StatifyLogic/User.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StatifyLogic/Song.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StatifyLogic/Artist.py">
+    <entry file="file://$PROJECT_DIR$/Statify/frontend/Playlist.jsx">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StatifyLogic/Playlist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BigData/ArtistTrendStrategy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BigData/Trend.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BigData/Recommendation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BigData/RecommendationStategyKNNClassifier.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DatabaseAccess/DatabaseParser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Statify/frontend/App.jsx">
       <provider selected="true" editor-type-id="text-editor">
@@ -339,30 +353,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/brian.txt">
+    <entry file="file://$PROJECT_DIR$/Statify/backend/StatifyLogic/Song.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Statify/frontend/Song.jsx">
+    <entry file="file://$PROJECT_DIR$/Statify/backend/StatifyLogic/Playlist.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statify/backend/BigData/ArtistTrendStrategy.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statify/backend/BigData/RecommendationStategyKNNClassifier.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statify/backend/BigData/Recommendation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statify/backend/BigData/RecommendationStategyKNNRegression.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statify/backend/BigData/SongTrendStrategy.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statify/backend/BigData/Trend.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statify/backend/BigData/TrendStrategy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Statify/frontend/Playlist.jsx">
+    <entry file="file://$PROJECT_DIR$/Statify/backend/StatifyLogic/Artist.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Statify/frontend/Artist.jsx">
+    <entry file="file://$PROJECT_DIR$/Statify/backend/DatabaseAccess/SpotifyApiQueries.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Statify/frontend/MusicTile.jsx">
+    <entry file="file://$PROJECT_DIR$/Statify/backend/DatabaseAccess/Parser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statify/backend/DatabaseAccess/SpotifyApiParser.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statify/backend/DatabaseAccess/Search.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statify/backend/DatabaseAccess/Queries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statify/backend/DatabaseAccess/DatabaseQueries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statify/backend/DatabaseAccess/DatabaseParser.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statify/backend/StatifyLogic/UserID.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statify/backend/DatabaseAccess/History.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statify/backend/StatifyLogic/User.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
