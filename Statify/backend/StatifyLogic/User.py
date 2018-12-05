@@ -1,10 +1,10 @@
 # User file
-from src.DatabaseAccess import History
+from Statify.backend.DatabaseAccess import History
 
 
 class User:
     def __init__(self, uid):
-        self.id = uid
+        self.id = uid.get_id()
         self.history = History(uid)
 
     def get_trend(self, trend, start_time, end_time):
